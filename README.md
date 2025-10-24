@@ -1,12 +1,5 @@
 # SWYF - See What You Fit
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vatsal212005/SWYF/main/assets/logo.png" alt="SWYF Logo" width="300">
-</p>
-
->
-> This project is currently in its initial development phase. Core features are functional but may contain bugs. Please report any issues through our issue tracker.
-
 SWYF is an innovative AI-powered virtual try-on platform that revolutionizes online fashion shopping, allowing users to visualize how clothes will look on them before making a purchase.
 
 ## 📋 Table of Contents
@@ -179,46 +172,6 @@ Our rewards program offers:
 - **Progress Tracking**: Track your rewards journey
 - **Exclusive Benefits**: Unlock discounts, early access, and special features
 - **Multi-level Rewards**: Progress through different levels to earn more benefits
-
-## 📝 Development Log
-
-### May 5, 2025
-- Fixed image loading issues in product catalog
-- Optimized Spline 3D background for faster loading
-- Created placeholder image fallbacks for better UX
-- Added hero image to landing page
-- Updated documentation with acknowledgements
-
-### May 6, 2025
-- Initial project setup
-- Created basic React frontend with TypeScript
-- Implemented Flask backend API
-- Added initial virtual try-on functionality
-- Integrated Spline 3D background elements
-- Implemented dark mode theme support
-- Created responsive design for mobile and desktop
-- Set up product catalog with basic functionality
-- Established project structure and documentation
-
-## 🚧 Current Status
-
-### What's Working
-- ✅ Flask backend serving React frontend
-- ✅ Dark mode toggle and theming throughout the application
-- ✅ Basic 3D backgrounds using Spline
-- ✅ Product catalog browsing
-- ✅ Responsive UI for mobile and desktop
-- ✅ Theme-aware components with proper contrast
-
-### In Progress
-- 🔄 Optimizing 3D element performance
-- 🔄 Enhancing error handling for assets
-- 🔄 Building FAQ sections
-- 🔄 Implementing business model page
-
-### Coming Soon
-- ⏳ User authentication
-- ⏳ Complete virtual try-on implementation
 
 ## 🙏 Acknowledgements
 
